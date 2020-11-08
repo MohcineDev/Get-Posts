@@ -1,0 +1,17 @@
+.logo {
+    font-size: 22px;
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+}
+nav a {
+    color: #eee;
+    margin: 0 10px;
+    font-size: 18px;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: rgb(85, 49, 218);
+}
